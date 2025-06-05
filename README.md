@@ -1,4 +1,4 @@
-# Worlde Solver (Feb 2025)
+# Wordle Solver (Feb 2025)
 
 This is a program to find the optimal next word in the Wordle game (https://www.nytimes.com/games/wordle/index.html).
 
