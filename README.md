@@ -1,3 +1,5 @@
+# Worlde Solver (Feb 2025)
+
 This is a program to find the optimal next word in the Wordle game (https://www.nytimes.com/games/wordle/index.html).
 
 - game.py: runs n games of Wordle coordinating the other two classes and keeps track of the scores.
